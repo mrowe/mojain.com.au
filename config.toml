@@ -61,7 +61,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         email = "info@mojain.com.au"
 
 
-[params.projects]
+    [params.projects]
 
         [[params.projects.sections]]
         # title = "Section 1"
