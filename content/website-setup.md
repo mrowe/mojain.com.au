@@ -1,5 +1,6 @@
-
-![wooden keyboard](/assets/images/website-setup.jpg)
+---
+banner: "/assets/images/website-setup.jpg"
+---
 
 # Website setup & design
 

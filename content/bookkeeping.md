@@ -1,5 +1,6 @@
-
-![abacus](/assets/images/bookkeeping.jpg)
+---
+banner: "/assets/images/bookkeeping.jpg"
+---
 
 # Accounting and bookkeeping services
 

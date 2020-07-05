@@ -1,8 +1,17 @@
 {{ define "main" }}
 
 <main>
-	<div class="post">
-		{{ .Content }}
+    {{ if .Params.banner }}
+ 	<div class="row">
+		<div class="col-md-12 mb-5">
+			<img width="100%" src="{{ .Params.banner }}"/>
+		</div>
+	</div>
+	{{ end }}
+ 	<div class="row">
+		<div class="col-md-12 mb-5 post">
+			{{ .Content }}
+		</div>
 	</div>
 </main>
 

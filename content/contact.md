@@ -1,7 +1,6 @@
-
-![beans](/assets/images/beans.jpg)
-
-## &nbsp;
+---
+banner: "/assets/images/beans.jpg"
+---
 
 # Questions?
 

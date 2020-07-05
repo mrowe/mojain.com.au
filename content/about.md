@@ -1,5 +1,6 @@
-
-![blocks](/assets/images/blocks.jpg)
+---
+banner: "/assets/images/blocks.jpg"
+---
 
 # About us
 
