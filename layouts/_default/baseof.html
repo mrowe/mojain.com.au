@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}">
   <head>
-    {{ partial "head.html" . }}
-    <link rel="stylesheet" href="/assets/css/local.css">
     <link href='http://fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css' />
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css' />
-
+    {{ partial "head.html" . }}
+    <link rel="stylesheet" href="/assets/css/local.css">
   </head>
   <body>
     {{ partial "navbar.html" . }}
