@@ -1,7 +1,3 @@
----
-title: 'About'
-slug: 'about'
----
 
 ![blocks](/assets/images/blocks.jpg)
 

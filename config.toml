@@ -22,19 +22,19 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.navbar.nav]]
         name = "Bookkeeping"
-        url = "/bookkeeping"
+        url = "/bookkeeping/"
 
         [[params.navbar.nav]]
         name = "Website setup"
-        url = "/website-setup"
+        url = "/website-setup/"
 
         [[params.navbar.nav]]
         name = "About Us"
-        url = "/about"
+        url = "/about/"
 
         [[params.navbar.nav]]
         name = "Contact"
-        url = "/contact"
+        url = "/contact/"
 
     # [params.header]
     #     name = "Business Name or Tagline"

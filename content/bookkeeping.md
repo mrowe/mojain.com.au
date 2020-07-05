@@ -1,6 +1,3 @@
----
-title: "Bookkeeping"
----
 
 ![abacus](/assets/images/bookkeeping.jpg)
 

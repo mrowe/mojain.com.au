@@ -1,7 +1,3 @@
----
-title: "Website setup"
-slug: 'website-setup'
----
 
 ![wooden keyboard](/assets/images/website-setup.jpg)
 

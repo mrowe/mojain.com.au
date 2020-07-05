@@ -1,7 +1,3 @@
----
-title: "Contact"
-layout: contact
----
 
 ![beans](/assets/images/beans.jpg)
 
