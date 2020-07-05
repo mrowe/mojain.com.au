@@ -1,4 +1,89 @@
 baseURL = "http://mojain.com.au/"
-languageCode = "en-us"
+languageCode = "en-AU"
 title = "Mojain Pty Ltd"
+
+theme = "hugo-business-frontpage"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+[params]
+    author = "Michael Rowe"
+    description = "Business Frontpage - A small business specialising in bookkeeping and website creation"
+
+    [params.navbar]
+        name = "Mojain Pty Ltd"
+        image = "/assets/images/mojain.png"
+        url = "/"
+
+        [[params.navbar.nav]]
+        current = true
+        name = "Home"
+        url = "/"
+
+        [[params.navbar.nav]]
+        name = "Bookkeeping"
+        url = "/bookkeeping"
+
+        [[params.navbar.nav]]
+        name = "Website setup"
+        url = "website-setup"
+
+        [[params.navbar.nav]]
+        name = "About Us"
+        url = "/about"
+
+        [[params.navbar.nav]]
+        name = "Contact"
+        url = "/contact"
+
+    # [params.header]
+    #     name = "Business Name or Tagline"
+    #     tagline = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam."
+
+
+    [params.summary]
+        url = "/about"
+
+        [params.summary.description]
+
+        [[params.summary.description.items]]
+        description = "Mojain Pty Ltd was incorporated in July 2004. Since then we have provided finance, administration and IT consulting and services to numerous clients, from small local companies to well-known national brands."
+
+        [[params.summary.description.items]]
+        description = "We are based in the quiet, leafy suburb of Briar Hill in Melbourne's outer north east and specialise in local small businesses and sole proprietors, but also have long standing relationships with larger groups. "
+
+
+        [params.summary.contact]
+        name = "Mojain Pty Ltd"
+        #address1 = "3481 Melrose Place"
+        #address2 = "Beverly Hills, CA 90210"
+        phone = "+61 (0) 409 955 779"
+        email = "info@mojain.com.au"
+
+
+[params.projects]
+
+        [[params.projects.sections]]
+        # title = "Section 1"
+
+        [[params.projects.sections.rows]]
+        # title = "Section 1, Row 1"
+
+        [[params.projects.sections.rows.items]]
+        title = "Accounting & bookkeeping"
+        description = ""
+        url = "/bookkeeping"
+        image = "abacus.png"
+
+        [[params.projects.sections.rows.items]]
+        title = "Website setup & design"
+        description = ""
+        url = "/website-setup"
+        image = "keyboard.jpg"
+
+
+
+    [params.footer]
+        copyright = "Mojain Pty Ltd"
+
 

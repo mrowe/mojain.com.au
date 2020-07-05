@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+  <head>
+    {{ partial "head.html" . }}
+    <link rel="stylesheet" href="/assets/css/local.css">
+  </head>
+  <body>
+    {{ partial "navbar.html" . }}
+    <div class="container outer">
+      {{ partial "summary.html" . }}
+      {{ partial "projects.html" . }}
+    </div><!-- /.container -->
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

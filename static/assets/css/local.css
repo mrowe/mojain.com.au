@@ -1,0 +1,31 @@
+
+.post p {
+    width: 960px;
+}
+
+nav.bg-mojain {
+	background-color: #f3f3f3;
+	border-top: 4px solid black;
+	padding: 1.2rem 0;
+}
+
+a.nav-link {
+	color: black !important;
+	margin-left: 2rem;
+}
+li.active a.nav-link, a.nav-link:hover {
+	border-top: 3px solid #00b6e4;
+	margin-top: -3px;
+}
+
+div.outer {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+blockquote p {
+	width: 66% !important;
+	margin-left: 4rem;
+	padding-left: 1rem;
+	border-left: 3px solid #ccc;
+}
