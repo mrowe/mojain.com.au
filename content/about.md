@@ -27,6 +27,8 @@ We are based in the quiet, leafy suburb of Briar Hill in Melbourne's outer north
 Michael has over 20 years experience in IT, having worked for and consulted to companies such as CGU Insurance, IBM, Lonely Planet, National Australia Bank, Sensis and Telstra, REA Group, and Suncorp. Contact Michael at mrowe@mojain.com.au
 
 ##### &nbsp;
+##### &nbsp;
+##### &nbsp;
 
 ##### Jo Askham - Principal Consultant
 

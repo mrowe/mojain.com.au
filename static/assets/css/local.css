@@ -31,3 +31,9 @@ blockquote p {
 	padding-left: 1rem;
 	border-left: 3px solid #ccc;
 }
+
+div.post img {
+	margin-right: 1em;
+	padding-top: 12px;
+	float: left;
+}
