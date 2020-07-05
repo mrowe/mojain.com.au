@@ -59,6 +59,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         #address2 = "Beverly Hills, CA 90210"
         phone = "+61 (0) 409 955 779"
         email = "info@mojain.com.au"
+        facebook = "MojainAccounting"
 
 
     [params.projects]
