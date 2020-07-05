@@ -1,26 +1,11 @@
-
-.post p {
-    width: 960px;
-}
-
-hr {
-    width: 960px;
-    margin: 2em 0;
+.body {
+	font-family: Lato;
 }
 
 nav.bg-mojain {
 	background-color: #f3f3f3;
 	border-top: 4px solid black;
 	padding: 1.2rem 0;
-}
-
-a.nav-link {
-	color: black !important;
-	margin-left: 2rem;
-}
-li.active a.nav-link, a.nav-link:hover {
-	border-top: 3px solid #00b6e4;
-	margin-top: -3px;
 }
 
 div.outer {
