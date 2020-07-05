@@ -5,6 +5,8 @@ layout: contact
 
 ![beans](/assets/images/beans.jpg)
 
+## &nbsp;
+
 # Questions?
 
 ---
