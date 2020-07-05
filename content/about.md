@@ -3,14 +3,19 @@ title: 'About'
 slug: 'about'
 ---
 
+![blocks](/assets/images/blocks.jpg)
+
+# About us
 
 Mojain Pty Ltd was incorporated in July 2004. Since then we have provided finance, administration and IT consulting and services to numerous clients, from small local companies to well-known national brands.
 
 We are based in the quiet, leafy suburb of Briar Hill in Melbourne's outer north east and specialise in local small businesses and sole proprietors, but also have long standing relationships with larger groups.
 
+---
+
 ## Our people
 
-#### &nbsp;
+##### &nbsp;
 
 ##### Michael Rowe - Director
 
@@ -18,7 +23,7 @@ We are based in the quiet, leafy suburb of Briar Hill in Melbourne's outer north
 
 Michael has over 20 years experience in IT, having worked for and consulted to companies such as CGU Insurance, IBM, Lonely Planet, National Australia Bank, Sensis and Telstra, REA Group, and Suncorp. Contact Michael at mrowe@mojain.com.au
 
-#### &nbsp;
+##### &nbsp;
 
 ##### Jo Askham - Principal Consultant
 
